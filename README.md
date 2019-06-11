@@ -2,7 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- [Ryan Mian] (https://github.com/mi-ano/hello-world-1) 
+- [Ryan Miano] (https://github.com/mi-ano/hello-world-1) 
 
 ## Project setup instructions
 To start using this project use the following commands:
